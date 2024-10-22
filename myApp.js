@@ -1,6 +1,7 @@
+helmet.hidePoweredBy()
 const express = require('express');
 const app = express();
-helmet.hidePoweredBy('express')
+
 
 
 
